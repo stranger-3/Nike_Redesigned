@@ -33,7 +33,6 @@ This project is a UI/UX redesign of the Nike e-commerce platform. It was created
 🔗 Figma Prototype Link
 
 [Click here to view the interactive Figma Prototype](https://www.figma.com/design/LLN4YAgPNQezd8yunnrWbb/Project?node-id=0-1&t=JUCWo1KVRjVHAzIC-1)
-*(Replace the text in the brackets with your actual Figma "Share" link)*
 
 ## 🔗 Project Screenshots
 
